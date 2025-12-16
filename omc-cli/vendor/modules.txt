@@ -1823,7 +1823,7 @@ k8s.io/kubectl/pkg/util/storage
 # k8s.io/kubelet v0.32.0
 ## explicit; go 1.23.0
 k8s.io/kubelet/pkg/apis
-# k8s.io/kubernetes v1.32.0
+# k8s.io/kubernetes v1.32.10
 ## explicit; go 1.23.0
 k8s.io/kubernetes/pkg/api/legacyscheme
 k8s.io/kubernetes/pkg/api/node
